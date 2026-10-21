@@ -7,6 +7,10 @@ Dashboard interaktif penjualan retail 2014–2017 untuk melihat kategori, wilaya
 
 **Tools:** Excel (cleaning, pivot) · Power BI (dashboard)
 
+Dashboard Kinerja Penjualan
+
+<img width="979" height="559" alt="superstore-dashboard-nofilter" src="https://github.com/user-attachments/assets/7f4742d8-393f-4405-bd4b-e842a3a8dc2b" />
+
 ---
 
 ## Latar Belakang
